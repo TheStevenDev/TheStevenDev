@@ -6,13 +6,11 @@ Hi there 👋
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: damoresteven2006@gmail.com
 
-†*Have worked in:**
+*Have worked in:**
 <p>
 <img alt-"Angular" src-"https: //img.shields.io/badge /Angular-DD0031?1ogo-angular‹logoColor-white&style-flat" />
 <img alt="React" src-"https://img.shields.io/badge/React-61DAFB?1ogo=react ¿logoColor-white&style-flat" /›
 <img alt="JavaScript" sro-"https://img. shields. io/badge/JavaScript-F7DF1E?1ogo-javascript&logoColor-white&style-flat" />
-<img alt="TypeScript"
-<img alt="TypeScript"
 sro-"https://img.shields.io/badge/TypeScript-3178C6?1ogo=typescript¿logoColor=white&style=flat"/>
 src-"https://img.shields.io/badge/Node.is-339933?logo-node.¡s‹logoColor-white&style-flat"/>
 <img alt="C Sharp" src="https://img.shields.io/badge/C°23-239120?1ogo=c-sharp&logoColor-white‹style-flat" /›
