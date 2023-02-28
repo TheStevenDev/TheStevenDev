@@ -9,10 +9,10 @@
 <h1>⭐ - Top Languages</h1>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSteven2006)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
+
 <h1>📈 - My Stats</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=TheSteven2006&count_private=true&theme=radical&show_icons=true"/>
-<hr>
+
 <h1>🏆 - My Trophyes</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
