@@ -6,6 +6,6 @@ Hi there 👋
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: damoresteven2006@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSteven2006)](https://github.com/anuraghazra/github-readme-stats)
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=TheSteven2006 &layout=compact />
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheSteven2006&count_private=true&theme=radical&show_icons=true" />
