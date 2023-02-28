@@ -6,4 +6,4 @@ Hi there 👋
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: damoresteven2006@gmail.com
 
-[![TheSteven2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+[![TheSteven2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSteven2006)](https://github.com/anuraghazra/github-readme-stats)
