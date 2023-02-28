@@ -8,5 +8,6 @@ Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSteven2006)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheSteven2006&count_private=true&theme=radical&show_icons=true" />
-[![trophy](https://github-profile-trophy.vercel.app/?TheStven2006=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=TheSteven2006&count_private=true&theme=radical&show_icons=true"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
