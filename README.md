@@ -1,18 +1,21 @@
-<h1>Hello 👋</h1>
+# 💫 About Me:
+Hello 👋<br><br><br>- 🏙 I'm from Milan,Italy<br>- 🔭 I’m currently working on a soccer games simulator<br>- 🌱 I’m currently learning JavaScript<br>- 📫 How to reach me: damoresteven2006@gmail.com
 
 
-- 🏙 I'm from Milan,Italy
-- 🔭 I’m currently working on a soccer games simulator
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: damoresteven2006@gmail.com
-<hr>
-<h1>⭐ - Top Languages</h1>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSteven2006)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TheSteven2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheSteven2006&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSteven2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h1>📈 - My Stats</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=TheSteven2006&count_private=true&theme=radical&show_icons=true"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h1>🏆 - My Trophyes</h1>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TheSteven2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+[![](https://visitcount.itsvg.in/api?id=TheSteven2006&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
