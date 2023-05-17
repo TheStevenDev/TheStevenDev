@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🏙 I'm from Milan,Italy<br>- 🔭 I’m currently working on a soccer games simulator<br>- 🌱 I’m currently learning JavaScript<br>- 📫 How to reach me: damoresteven2006@gmail.com
+- 🏙 I'm from Milan,Italy<br>- 🔭 I’m currently working on a soccer games simulator<br>- 🌱 I’m currently working on my Start-Up<br>- 📫 How to reach me: damoresteven2006@gmail.com
 
 
 ## 🌐 Socials:
