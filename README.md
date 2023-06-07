@@ -1,5 +1,4 @@
 # 💫 About Me:
-<br>
 - 🏙 I'm from Milan<br>- 🔭 I’m currently working on my future 🚀<br>- 📫 How to reach me -> damoresteven2006@gmail.com
 
 
